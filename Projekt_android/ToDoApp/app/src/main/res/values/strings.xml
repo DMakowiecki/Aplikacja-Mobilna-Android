@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <string name="sign_in">Zaloguj się</string>
+    <string name="sign_up">Zarejestruj się</string>
+    <string name="sign_up_description_text"> Podaj login, email , hasło</string>
+    <string name="name">Login:</string>
+    <string name="password">Haslo:</string>
+    <string name="email">Email:</string>
+    <string name="sign_in_description_text">Podaj  email, hasło:</string>
+
+</resources>
